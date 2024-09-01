@@ -2,9 +2,6 @@
 
 
 ---
-
-## Power of Two Max Heap
-
 ### Overview
 
 The Power of Two Max Heap is an advanced data structure that extends the traditional max heap concept. Unlike a standard binary heap, where each parent node has exactly two children, the Power of Two Max Heap allows each parent node to have \(2^k\) children. Here, \(k\) is a configurable parameter, enabling the heap to adapt to various use cases by adjusting its branching factor. This structure can offer significant performance benefits depending on the context in which it's used.
@@ -95,4 +92,3 @@ The project is licensed under the MIT License. See the LICENSE file for details.
 For further assistance or inquiries, please reach out.
 
 --- 
-Feel free to adjust any details or add more specific instructions based on your project's needs!
